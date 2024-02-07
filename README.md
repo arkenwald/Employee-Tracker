@@ -5,39 +5,32 @@ Description
 
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
 
-This back end for an e-commerce site was created by modifying starter code given to us.
+This is an employee management CLI application to help manage a business in regards to their departments, roles and employees.
 
-Express.js API and Sequelize was used to interact with a MySQL database.
+MySQL and inquirer packages were used in this application.
 
-Installation
+Installation & Usage
 
 To install the project:
 
-npm i
+Open the Terminal in the root folder then "npm i"
 
-mysql source schema.sql
+Login to MySQL "mysql -uroot -p' then "mysql source schema.sql"
 
-npm run seed
+seed the seeds.sql
 
-npm start
+node index.js to start
 
-Usage
+Follow the command prompts within the terminal to use.
 
-WHEN I open API GET routes in Insomnia for categories, products, or tags
-
-THEN the data for each of these routes is displayed in a formatted JSON
-
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-
-THEN I am able to successfully create, update, and delete data in my database
 
 GitHub Repository:
 
-https://github.com/arkenwald/ORM-E-Commerce-Back-End
+https://github.com/arkenwald/Employee-Tracker
 
 Video Walkthrough:
 
-https://drive.google.com/file/d/1ptA0LpeVrfBAq-DGmXkPAiK6RuCcYHFr/view
+https://drive.google.com/file/d/1H_fj2H_tI6pYuuw4cmEKrhn5GVeFZFzd/view
 
 Credits
 
@@ -47,19 +40,13 @@ https://github.com/pnguyen412
 
 Website Resources:
 
-https://www.npmjs.com/package/dotenv
 
-https://sequelize.org/docs/v6/core-concepts/model-querying-finders/
-
-https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/
-
-https://sequelize.org/docs/v6/core-concepts/assocs/
 
 License
 
 MIT License
 
-Copyright (c) 2023, Peter Tong
+Copyright (c) 2024, Peter Tong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
