@@ -40,7 +40,11 @@ https://github.com/pnguyen412
 
 Website Resources:
 
+https://medium.com/@kukreti.ashutosh/episode-2-mysql-database-setup-and-seeding-77873ce06e96
 
+https://stackoverflow.com/questions/68490589/node30437-unhandledpromiserejectionwarning-error-callback-function-is-not-a
+
+https://snyk.io/advisor/npm-package/inquirer/functions/inquirer.prompt
 
 License
 
